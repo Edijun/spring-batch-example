@@ -1,4 +1,4 @@
-# spring-batch-example
+# Spring Batch Example
 Contoh penggunaan spring batch dalam spring boot project
 
 ## Tetang Spring Batch
