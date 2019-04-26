@@ -1,5 +1,5 @@
 # Spring Batch Example
-Contoh penggunaan spring batch dalam dalam sebuah batch processing
+Contoh penggunaan spring batch dalam sebuah spring boot project
 
 ## Tetang Spring Batch
 Spring batch adalah framework dari spring untuk melakukan proses batch yang powerful, dapat mengelola data yang sangat besar sehingga dapat menghandle kebutuhan aplikasi berskala enterprise.
